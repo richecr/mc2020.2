@@ -1,0 +1,56 @@
+data,periodo,ps_conheci_req_nao_ensinado,ps_conhe_req,proj_est_conhe_req_nao_ensinado,proj_est_conhe_req,area_mais_oportunidades,area_selec_eh_abordada_no_curso,curso_tendencioso,base_suficiente
+2021/08/10 9:49:05 PM GMT-3,Já me formei,Sim,DevOps (docker + kubernetes),Sim,DevOps (docker + kubernetes),Desenvolvimento Web,Sim,4,4
+2021/08/11 10:14:33 AM GMT-3,7º período ou posterior,Não,,Não,,Desenvolvimento Web,Sim,4,4
+2021/08/11 10:16:26 AM GMT-3,Já me formei,Não,,Não,,Desenvolvimento Web,Não,4,5
+2021/08/11 10:17:33 AM GMT-3,4º período ou anterior,Não,,Não,,Desenvolvimento Web,Sim,4,2
+2021/08/11 10:17:41 AM GMT-3,7º período ou posterior,Não,,Sim,Técnicas avançadas de Deep Learning,Desenvolvimento Web,Sim,2,5
+2021/08/11 10:19:32 AM GMT-3,7º período ou posterior,Sim,"Kubernetes, Docker",Sim,"Kubernetes, Docker",Desenvolvimento Web,Sim,3,5
+2021/08/11 10:21:05 AM GMT-3,7º período ou posterior,Sim,,Sim,,Desenvolvimento Web,Sim,2,4
+2021/08/11 10:23:02 AM GMT-3,7º período ou posterior,Sim,"react, node",Sim,,Desenvolvimento Web,Sim,3,3
+2021/08/11 10:23:33 AM GMT-3,7º período ou posterior,Não,,Sim,,Desenvolvimento Web,Sim,2,4
+2021/08/11 10:26:16 AM GMT-3,6º período,Não,,Não,,Desenvolvimento Web,Não,4,5
+2021/08/11 11:25:14 AM GMT-3,5º período,Sim,Tecnologias atuais,Sim,Conhecimento em tecnologias que não são apresentadas no curso ,Desenvolvimento Web,Não,3,1
+2021/08/11 11:27:45 AM GMT-3,Já me formei,Sim,Tecnologias.,Sim,"Tecnologias. No nosso ramo as tecnologias estão em constante evolução, embora a base fornecida tenha sido sólida o suficiente para facilitar a adaptação.",Desenvolvimento Web,Não,4,4
+2021/08/11 11:36:29 AM GMT-3,5º período,Sim,Acredito que a maioria é uso de algum framework específico,Não,,Desenvolvimento Web,Não,1,3
+2021/08/11 11:44:31 AM GMT-3,7º período ou posterior,Não,,Sim,"Arquiteturas que utilizam containers, atividades voltadas para  UI/UX",Desenvolvimento Web,Não,1,4
+2021/08/11 11:50:52 AM GMT-3,4º período ou anterior,Não,,"Não estou atuando em nenhum projeto, estágio ou trabalho",,Análise de Dados,Sim,1,5
+2021/08/11 11:51:57 AM GMT-3,7º período ou posterior,Sim,"Angular, Selenium, Docker...",Não,,Desenvolvimento Web,Não,4,2
+2021/08/11 11:52:21 AM GMT-3,4º período ou anterior,Sim,"Desenvolvimento Frontend (Web), Desenvolvimento Backend e Desenvolvimento Mobile",Sim,Desenvolvimento Frontend (Web) e Desenvolvimento Mobile,Desenvolvimento Web,Não,4,5
+2021/08/11 11:52:56 AM GMT-3,5º período,Não,,"Não estou atuando em nenhum projeto, estágio ou trabalho",,Desenvolvimento Web,Não,3,4
+2021/08/11 12:01:00 PM GMT-3,5º período,Sim,"React, machine learning, angular",Sim,"Machine learning, análise de dados com python",Desenvolvimento Web,Sim,3,1
+2021/08/11 12:16:00 PM GMT-3,7º período ou posterior,Não,,Não,,Desenvolvimento Web,Não,1,3
+2021/08/11 12:34:32 PM GMT-3,7º período ou posterior,Sim,Desenvolvimento web e mobile com React e servidor com NodeJs,Sim,Desenvolvimento web e mobile com React e servidor com NodeJs,Desenvolvimento Web,Não,4,2
+2021/08/11 12:42:26 PM GMT-3,4º período ou anterior,Sim,Desenvolvimento Web,Sim,"Linux, Desenvolvimento Web",Desenvolvimento Web,Sim,4,3
+2021/08/11 1:06:26 PM GMT-3,7º período ou posterior,Não,,Sim,Criptografia e como desenvolvê-la,Desenvolvimento Web,Sim,5,5
+2021/08/11 1:11:41 PM GMT-3,4º período ou anterior,Não,,"Não estou atuando em nenhum projeto, estágio ou trabalho",,Desenvolvimento Web,Não,3,4
+2021/08/11 2:04:12 PM GMT-3,Já me formei,Sim,CI/CD,Sim,CI/CD; Gerenciamento de Dependências; Otimização de bancos de dados relacionais...,Desenvolvimento Web,Sim,4,2
+2021/08/11 2:11:06 PM GMT-3,Já me formei,Sim,"JavaScript, TypeScript, Spring",Sim,"JFS, Spring, JS, TS, Flask, Django, Sass",Desenvolvimento Web,Não,4,1
+2021/08/11 2:14:12 PM GMT-3,4º período ou anterior,Sim,,Sim,,Desenvolvimento Web,Não,5,4
+2021/08/11 2:18:56 PM GMT-3,7º período ou posterior,Sim,"IOT, NodeJS, Desgni UI.",Sim,"IOT, CLOUD",Desenvolvimento Web,Não,5,3
+2021/08/11 2:19:42 PM GMT-3,7º período ou posterior,Não,,Não,,Desenvolvimento Web,Sim,4,3
+2021/08/11 3:39:30 PM GMT-3,4º período ou anterior,Não,,"Não estou atuando em nenhum projeto, estágio ou trabalho",,Desenvolvimento Web,Não,4,4
+2021/08/11 3:57:30 PM GMT-3,5º período,Não,,Não,,Desenvolvimento Web,Não,3,2
+2021/08/11 4:21:47 PM GMT-3,Já me formei,Não,,Sim,Conhecimento em TypeScript e Clojure.,Desenvolvimento Web,Sim,5,2
+2021/08/11 5:41:52 PM GMT-3,7º período ou posterior,Não,,Sim,,Desenvolvimento Web,Não,1,5
+2021/08/11 7:42:35 PM GMT-3,7º período ou posterior,Não,,Sim,Kubernetes e Análise de Dados ,Desenvolvimento Web,Não,2,2
+2021/08/11 9:01:18 PM GMT-3,6º período,Sim,React,Não,,Desenvolvimento Web,Não,4,3
+2021/08/11 9:41:37 PM GMT-3,6º período,Não,,Não,,Desenvolvimento Web,Sim,2,4
+2021/08/11 9:49:41 PM GMT-3,6º período,Sim,banco de dados,Sim,"react, node",Desenvolvimento Web,Não,4,4
+2021/08/11 10:53:46 PM GMT-3,7º período ou posterior,Não,,Sim,desenvolvimento mobile,Desenvolvimento Web,Não,5,3
+2021/08/11 10:56:03 PM GMT-3,7º período ou posterior,Sim,AWS,Não,,Desenvolvimento Web,Sim,4,2
+2021/08/11 11:56:02 PM GMT-3,Já me formei,Sim,Computação gráfica,Não,,Desenvolvimento Web,Sim,4,4
+2021/08/12 8:13:56 AM GMT-3,5º período,Não,,Sim,"Conhecimentos de OO e web mais avançados que existe nas matérias do curso, mas ainda não cursei.",Desenvolvimento Web,Sim,4,5
+2021/08/12 8:28:12 AM GMT-3,7º período ou posterior,Não,,Não,,Sistemas Distribuídos,Não,3,4
+2021/08/12 9:32:57 AM GMT-3,5º período,Não,,Não,,Desenvolvimento Web,Não,3,2
+2021/08/12 9:56:41 AM GMT-3,7º período ou posterior,Não,,Não,,Desenvolvimento Web,Sim,4,4
+2021/08/12 10:13:17 AM GMT-3,4º período ou anterior,Sim,Spring,Sim,"Groovy, docker, react, Js",Desenvolvimento Web,Não,1,3
+2021/08/12 11:01:44 AM GMT-3,4º período ou anterior,Sim,linguagem em C,"Não estou atuando em nenhum projeto, estágio ou trabalho",,Desenvolvimento Web,Sim,3,3
+2021/08/12 11:35:49 AM GMT-3,7º período ou posterior,Sim,Conhecimentos de desenvolvimento web,Sim,"Azure devops, frameworks web ",Desenvolvimento Web,Não,4,2
+2021/08/12 2:48:56 PM GMT-3,5º período,Não,,"Não estou atuando em nenhum projeto, estágio ou trabalho",,Desenvolvimento Web,Não,3,2
+2021/08/12 2:56:42 PM GMT-3,4º período ou anterior,Não,,"Não estou atuando em nenhum projeto, estágio ou trabalho",,Desenvolvimento Web,Sim,3,4
+2021/08/12 3:51:43 PM GMT-3,4º período ou anterior,Sim,Projeto de devweb mas nenhuma disciplina antes do 6º periodo aborda front-end.,Sim,Dev-web e análise de dados descritivos,Desenvolvimento Web,Não,5,4
+2021/08/12 8:01:17 PM GMT-3,7º período ou posterior,Sim,desenvolvimento mobile,Não,,Desenvolvimento Web,Sim,5,4
+2021/08/12 9:16:45 PM GMT-3,4º período ou anterior,Sim,"Conhecimento de tecnologias específicas, como Kubernets, Docker, etc",Sim,Conhecimento aprofundado de protocolos de rede,Sistemas Distribuídos,Não,3,4
+2021/08/13 12:40:55 AM GMT-3,5º período,Sim,Qual seria a melhor estrutura de estruturas de dados para resolver dado problema?,Não,,Desenvolvimento Web,Não,3,5
+2021/08/16 9:39:44 AM GMT-3,7º período ou posterior,Não,,Sim,,Desenvolvimento Web,Não,3,5
+2021/08/17 3:50:50 PM GMT-3,6º período,Sim,"Conhecimento em react, angular. Conhecimento aprofundado em git",Sim,"deploy de banco de dados, docker, shellscript",Desenvolvimento Web,Sim,5,1
