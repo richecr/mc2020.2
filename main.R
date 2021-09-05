@@ -151,3 +151,12 @@ p = ggplot(data = per_5, aes(x = ps_conheci_req_nao_ensinado)) +
   labs(x = "Pessoas no 5º período já precisaram de algo que não foi abordado no curso ?", y = "N° pessoas")
 
 ggsave("per_5.png", p, width = 6, height = 3)
+
+
+df = subset(csv, select = -c(data, periodo, ps_conhe_req, proj_est_conhe_req_nao_ensinado, proj_est_conhe_req, curso_tendencioso, base_suficiente, area_mais_oportunidades, area_selec_eh_abordada_no_curso))
+
+p = ggplot(data = df, aes(x = ps_conheci_req_nao_ensinado)) + 
+  geom_bar() +
+  labs(x = "Alunos já precisaram de algo que não foi abordado no curso ?", y = "N° pessoas")
+
+ggsave("per_total.png", p, width = 6, height = 3)
